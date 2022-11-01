@@ -1,0 +1,10 @@
+C:\ECALC\AtualizaIPexterno\AtualizaIPexterno\bin\Debug\AtualizaIPexterno.exe.config
+C:\ECALC\AtualizaIPexterno\AtualizaIPexterno\bin\Debug\AtualizaIPexterno.exe
+C:\ECALC\AtualizaIPexterno\AtualizaIPexterno\bin\Debug\AtualizaIPexterno.pdb
+C:\ECALC\AtualizaIPexterno\AtualizaIPexterno\obj\Debug\AtualizaIPexterno.csproj.SuggestedBindingRedirects.cache
+C:\ECALC\AtualizaIPexterno\AtualizaIPexterno\obj\Debug\AtualizaIPexterno.AtualizaIP.resources
+C:\ECALC\AtualizaIPexterno\AtualizaIPexterno\obj\Debug\AtualizaIPexterno.Properties.Resources.resources
+C:\ECALC\AtualizaIPexterno\AtualizaIPexterno\obj\Debug\AtualizaIPexterno.csproj.GenerateResource.cache
+C:\ECALC\AtualizaIPexterno\AtualizaIPexterno\obj\Debug\AtualizaIPexterno.csproj.CoreCompileInputs.cache
+C:\ECALC\AtualizaIPexterno\AtualizaIPexterno\obj\Debug\AtualizaIPexterno.exe
+C:\ECALC\AtualizaIPexterno\AtualizaIPexterno\obj\Debug\AtualizaIPexterno.pdb

@@ -1,0 +1,21 @@
+C:\ECALC\AtualizaIPexterno\AtualizaIPexterno\obj\Debug\AtualizaIPExternoDuckDNS.csproj.SuggestedBindingRedirects.cache
+C:\ECALC\AtualizaIPexterno\AtualizaIPexterno\obj\Debug\AtualizaIPExternoDuckDNS.Properties.Resources.resources
+C:\ECALC\AtualizaIPexterno\AtualizaIPexterno\obj\Debug\AtualizaIPExternoDuckDNS.csproj.GenerateResource.cache
+C:\ECALC\AtualizaIPexterno\AtualizaIPexterno\obj\Debug\AtualizaIPExternoDuckDNS.csproj.CoreCompileInputs.cache
+C:\ECALC\AtualizaIPexterno\AtualizaIPexterno\obj\Debug\AtualizaIPExternoDuckDNS.AtualizaIP.resources
+C:\ECALC\AtualizaIPexterno\AtualizaIPexterno\bin\Debug\AtualizaIPExternoDuckDNS.exe.config
+C:\ECALC\AtualizaIPexterno\AtualizaIPexterno\bin\Debug\AtualizaIPExternoDuckDNS.exe
+C:\ECALC\AtualizaIPexterno\AtualizaIPexterno\bin\Debug\AtualizaIPExternoDuckDNS.pdb
+C:\ECALC\AtualizaIPexterno\AtualizaIPexterno\obj\Debug\AtualizaIPExternoDuckDNS.csproj.AssemblyReference.cache
+C:\ECALC\AtualizaIPexterno\AtualizaIPexterno\obj\Debug\AtualizaIPExternoDuckDNS.exe
+C:\ECALC\AtualizaIPexterno\AtualizaIPexterno\obj\Debug\AtualizaIPExternoDuckDNS.pdb
+C:\ECALC\Nova pasta\AtualizaIPExternoDuckDNS\bin\Debug\AtualizaIPExternoDuckDNS.exe.config
+C:\ECALC\Nova pasta\AtualizaIPExternoDuckDNS\bin\Debug\AtualizaIPExternoDuckDNS.exe
+C:\ECALC\Nova pasta\AtualizaIPExternoDuckDNS\bin\Debug\AtualizaIPExternoDuckDNS.pdb
+C:\ECALC\Nova pasta\AtualizaIPExternoDuckDNS\obj\Debug\AtualizaIPExternoDuckDNS.csproj.SuggestedBindingRedirects.cache
+C:\ECALC\Nova pasta\AtualizaIPExternoDuckDNS\obj\Debug\AtualizaIPExternoDuckDNS.AtualizaIP.resources
+C:\ECALC\Nova pasta\AtualizaIPExternoDuckDNS\obj\Debug\AtualizaIPExternoDuckDNS.Properties.Resources.resources
+C:\ECALC\Nova pasta\AtualizaIPExternoDuckDNS\obj\Debug\AtualizaIPExternoDuckDNS.csproj.GenerateResource.cache
+C:\ECALC\Nova pasta\AtualizaIPExternoDuckDNS\obj\Debug\AtualizaIPExternoDuckDNS.csproj.CoreCompileInputs.cache
+C:\ECALC\Nova pasta\AtualizaIPExternoDuckDNS\obj\Debug\AtualizaIPExternoDuckDNS.exe
+C:\ECALC\Nova pasta\AtualizaIPExternoDuckDNS\obj\Debug\AtualizaIPExternoDuckDNS.pdb
