@@ -1,5 +1,5 @@
 # duckDnsUpdater
-A simple Win Client to update DuckDNS domain IP
+> **A simple Win Client to update DuckDNS domain IP**
 
 ## 1. Configuring the updater before Compile
 
